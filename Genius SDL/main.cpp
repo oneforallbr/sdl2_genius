@@ -1,3 +1,5 @@
+//Author: Douglas Campolongo
+
 #include <SDL.h>
 #include <iostream>
 #include<string>
